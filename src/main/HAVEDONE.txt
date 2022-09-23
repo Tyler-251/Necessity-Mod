@@ -1,0 +1,21 @@
+Armor:
+
+   vampire armor
+   vampire armor - set bonii
+
+   gold, demonic armor set bonuses
+
+Weapons:
+
+   vampire fangs sword -> upgrades to end-game
+   batarang
+
+   beam sword
+
+   better lightning hammer
+
+   //grenades
+
+Mob Drops:
+
+   vampire stuff

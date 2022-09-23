@@ -1,0 +1,97 @@
+--- Necesse crash log ---
+Generated on: 2022-06-17 00h05m27s
+At C:\Users\tyler\OneDrive\Desktop\Necessity\latest-crash.log
+Game state: MainGame
+Game version: 0.21.22
+Game language: en
+Steam build: 8889609
+Steam name: MrHatt
+Authentication: 76561198252545146
+Launch parameters: -mod C:\Users\tyler\OneDrive\Desktop\Necessity\build\mod
+Found 1 loaded mods:
+	epichatt.necessity, v1.01 - Necessity Mod
+Found 1 total mods:
+	epichatt.necessity, v1.01 - Necessity Mod
+
+Exceptions:
+java.lang.NullPointerException
+	at engine.modifiers.ModifierContainer.setModifier(ModifierContainer.java:41)
+	at entity.mobs.buffs.ActiveBuff.setModifier(ActiveBuff.java:297)
+	at entity.buffs.SunstoneHelmetSetBonusBuff.clientTick(SunstoneHelmetSetBonusBuff.java:52)
+	at entity.mobs.buffs.ActiveBuff.clientTick(ActiveBuff.java:168)
+	at entity.mobs.buffs.BuffManager.clientTick(BuffManager.java:150)
+	at entity.mobs.Mob.clientTick(Mob.java:425)
+	at entity.mobs.AttackAnimMob.clientTick(AttackAnimMob.java:21)
+	at entity.mobs.PlayerMob.clientTick(PlayerMob.java:420)
+	at engine.network.client.ClientClient.tick(ClientClient.java:87)
+	at engine.network.client.Client.tick(Client.java:276)
+	at engine.tickManager.PerformanceTimerManager.recordPerformance(PerformanceTimerManager.java:105)
+	at engine.tickManager.Performance.record(Performance.java:10)
+	at engine.state.MainGame.frameTick(MainGame.java:354)
+	at engine.Screen$1.lambda$update$3(Screen.java:583)
+	at engine.tickManager.PerformanceTimerManager.recordConstantPerformance(PerformanceTimerManager.java:113)
+	at engine.tickManager.Performance.recordConstant(Performance.java:16)
+	at engine.Screen$1.update(Screen.java:582)
+	at engine.tickManager.TickManager.tickLogic(TickManager.java:98)
+	at engine.Screen.init(Screen.java:1032)
+	at engine.Screen.<init>(Screen.java:257)
+	at StartClient.main(StartClient.java:103)
+
+Username: tyler
+OS: Microsoft Windows 11 (Home) build 22000
+OS arch: amd64
+CPU: AMD Ryzen 7 3700X 8-Core Processor             
+Memory total: 17.13 GB
+Memory used: 12.32 GB
+Java path: C:\Program Files\Java\jdk1.8.0_202\jre
+Java version: 1.8.0_202
+JVM arguments:
+	-XX:+UnlockExperimentalVMOptions
+	-XX:+UseG1GC
+	-XX:G1NewSizePercent=20
+	-XX:G1ReservePercent=20
+	-XX:MaxGCPauseMillis=50
+	-XX:G1HeapRegionSize=32M
+	-Xms512m
+	-Xmx3G
+	-Dfile.encoding=windows-1252
+	-Duser.country=US
+	-Duser.language=en
+	-Duser.variant
+LWJGL version: 3.3.0 build 21
+AppData path: C:\Users\tyler\AppData\Roaming\Necesse\
+Working dir: C:\Users\tyler\OneDrive\Desktop\Necessity
+Natives path: C:\Program Files (x86)\Steam\steamapps\common\Necesse\.\natives
+JVM memory max: 3.22 GB
+JVM memory used: 764.82 MB / 1.41 GB (54.27%)
+
+Graphics card: NVIDIA Corporation, NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2
+OpenGL version: 4.6.0 NVIDIA 496.76
+Found 2 displays:
+	HS156PC (YDH, 1560)
+	VG245 (AEC, 24a1)
+FBO: GL30
+
+Running server: Yes
+Server network: LOCAL
+Server network in: 73 B/s (40), Total: 6.75 kB (704)
+Server network out: 8.79 kB/s (77), Total: 587.10 kB (782)
+Server save name: C:\Users\tyler\AppData\Roaming\Necesse\saves/adaddaadadadd.zip
+Server world time: 480, day 33
+Server game time: 7027657
+Server local time: 10771
+Server ticks: 215
+Players online: 1
+	Slot 0: MrHatt at 228x-1335d69
+Loaded levels: 1
+	228x-1335d69, Size: 300x300, Biome: forest, Entities: 292, Mobs: 10, Projectiles: 0, Pickups: 2
+
+Running client: Yes
+Client network: LOCAL
+Client network in: 10.23 kB/s (82), Total: 587.10 kB (782)
+Client network out: 80 B/s (45), Total: 6.75 kB (704)
+Client world time: 480, day 33
+Client game time: 7027623
+Client local time: 8682
+Client slot: 0/1
+Client level: 228x-1335d69, Size: 300x300, Biome: forest, Entities: 292, Mobs: 10, Projectiles: 0, Pickups: 2

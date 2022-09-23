@@ -1,0 +1,54 @@
+>>>>>>   amongus mob!!!! <<<<THIS
+Objects:
+    literal sentries?
+
+Armor:
+
+   later tier vampire armor (life quartz+demonite+ectoplasm+bone)
+   combination armors
+
+   bone armor
+
+Weapons:
+   combination weapons
+
+   bone tools
+
+   summon weapons
+
+   ammunition revamps
+       craftable bows
+       less arrow drop frequency
+       quills
+       exciting variety such as slingshot or 3shot
+       //storm bow (summon arrows around cursor)
+
+   magic
+        better status spells like sentry
+        effects from magic (slow,etc.)
+
+Equips:
+   bunch of stuff (mostly combinations)
+
+   bone hilt comb.
+   bat boots comb.
+
+   zephyr boots->hermes boots->
+
+Mob Drops:
+   zombie flesh equivalent
+
+   drops from cave critters
+
+Mobs:
+   hostile surface mobs
+   slimes
+   zombies
+
+Progression:
+   !!Change demonic to tier 0!!
+   Electrum,Sunstone/Moonstone,Nightmare,Livingwood
+   lock dungeon loot to post boss
+   Fix bombs
+   boss counter, lock things to bosses defeated
+   lock quartz & ivy to post demonic

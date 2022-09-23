@@ -1,0 +1,102 @@
+[tile]
+exampletile=Example Tile
+darkcloudtile=Dark Cloud Tile
+cloudtile=Cloud Tile
+emptycloudtile=Empty Cloud Tile
+cloudstoneruinstile=Heaven Ruins Tile
+
+[object]
+exampleobject=Example Object
+livingtree=Living Tree
+livingsapling=Living Sapling
+cloudladderdown=Rocket Ladder
+cloudladderup=Rocket Ladder
+ambrosiasapling=Ambrosia Sapling
+ambrosiabush=Ambrosia Bush
+cloudrock=Cloud Rock
+darkcloudrock=Dark Cloud Rock
+moonore=Moon Rock Deposit
+cloudstonedoor=Cloudstone Door
+cloudstonewall=Cloudstone Wall
+cloudstonecolumn=Cloudstone Column
+cloudsurfacerock=Cloud Rock
+cloudcaveentrance=Heaven's Cave Entrance
+cloudcaveexit=Heaven's Cave Exit
+
+[item]
+
+vampirefangs=Vampire Fangs
+draculablade=Dracula's Blade
+lisamemora=Lisa's Memora
+alucardbane=Alucard's Bane
+vampirechestplate=Vampire Chestplate
+vampirehelmet=Vampire Hat
+vampireboots=Vampire Boots
+batarang=Batarang
+stormhammer=Storm Hammer
+justicestick=Justice on a Stick
+goldhood=Gold Hood
+demonichood=Demonic Hood
+fungalstaff=Fungal Staff
+jumbledbar=Jumbled Bar
+jumbledore=Jumbled Ore
+livinglog=Living Log
+ambrosia=Ambrosia
+grenade=Grenade
+earthenpowertome=Earthen Power Tome
+hermesboots=Hermes Boots
+silversilk=Silver Silk
+electrumbar=Electrum Bar
+electrumbattleaxe=ELectrum Battleaxe
+electrumbow=Electrum Bow
+electrumglaive=Electrum Glaive
+electrumspear=Electrum Spear
+electrumsword=Electrum Sword
+electrumstaff=Electrum Staff
+cloudstone=Cloudstone
+electrumchestplate=Electrum Chestplate
+electrumhat=Electrum Hat
+electrumhelmet=Electrum Helmet
+electrumboots=Electrum Boots
+electrumpickaxe=Electrum Pickaxe
+electrumshovel=Electrum Shovel
+electrumaxe=Electrum Axe
+moonore=Moon Rock
+sunstone=Sunstone
+sunstonehelmet=Sunstone Helmet
+sunstonehood=Sunstone Hood
+sunstonechestplate=Sunstone Chestplate
+sunstoneboots=Sunstone Boots
+moonstonemask=Moonstone Mask
+moonstoneboots=Moonstone Boots
+moonstonehat=Moonstone Hat
+moonstonechestplate=Moonstone Chestplate
+nightmarehelmet=Nightmare Helmet
+nightmarechestplate=Nightmare Chestplate
+nightmareboots=Nightmare Boots
+
+
+[itemtooltip]
+cloudladderdowntip=To the Heavens!
+justicsticktip=Summons four bats
+vampireset=5% Increased Regen
+vampirechest=10% Increased Magic Attack Speed
+goldhoodset=+3 Armor
+slingshottip=amongus
+slingshotammo=Stones
+electrumhelmetset=15% Increased Melee Attack Speed, sets Target Ablaze for 5 Seconds
+electrumhoodset=15% Increased Projectile Velocity, sets Target Ablaze for 5 Seconds
+demonictooltip=CANNOT mine quartz in desert caves and ivy in swamp caves
+electrumpickaxetooltip=Can mine quartz in desert caves and ivy in swamp caves
+earthentometip=Shoots 4 slow moving and bouncing projectiles
+electrumstafftip=Shoots 2 fast and homing projectiles
+
+[mob]
+examplemob=Example Mob
+redballoon=Red Balloon
+blueballoon=Blue Balloon
+yellowballoon=Yellow Balloon
+angel=Blinded Angel
+
+[buff]
+examplebuff=Example Buff
